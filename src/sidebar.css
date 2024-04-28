@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: #333; /* Dark background color */
+    color: white; /* Text color */
+    width: 200px; /* Set sidebar width */
+    padding: 20px; /* Add some padding */
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 10px; /* Add margin below headings */
+  }
+  
+  .sidebar ul {
+    list-style-type: none; /* Remove list bullets */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .sidebar li {
+    margin-bottom: 5px; /* Add margin between list items */
+  }
+  
